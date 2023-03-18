@@ -5,9 +5,9 @@ const MovieList = ({ movies }) => {
       <table>
         <thead>
           <tr>
-            <th className="th">Title</th>
-            <th className="th">Genre</th>
-            <th className="th">Year</th>
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Year</th>
           </tr>
         </thead>
         <tbody>
